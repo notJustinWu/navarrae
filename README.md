@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Justin
-- I'm interested in Math & CS
-- You can reach me at justinwu314@gmail.com
+
